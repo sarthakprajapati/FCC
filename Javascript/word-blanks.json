@@ -1,0 +1,1 @@
+{"index.js":"function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {\n    var result = \"\";\n    // Your code below this line\n    result+= \"My \"+myAdjective+\" \"+myNoun+\" \"+myVerb+\" very \"+myAdverb+\".\";\n\n    // Your code above this line\n  return result;\n}\n\n// Change the words here to test your function\nwordBlanks(\"dog\", \"big\", \"ran\", \"quickly\");"}
