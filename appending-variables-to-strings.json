@@ -1,0 +1,1 @@
+{"index.js":"var someAdjective = \" hello My Name\";\nvar myStr = \"Learning to code is \";\nmyStr += someAdjective;"}
