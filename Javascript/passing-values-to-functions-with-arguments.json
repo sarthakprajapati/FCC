@@ -1,0 +1,1 @@
+{"index.js":"// Example\nfunction ourFunctionWithArgs(a, b) {\n  console.log(a - b);\n}\nourFunctionWithArgs(10, 5); // Outputs 5\n\n// Only change code below this line.\n\nfunction functionWithArgs(p,x){\n  var t;\n  t=p+x;\n  console.log(t);\n}\nfunctionWithArgs(1,2);\nfunctionWithArgs(7,9);"}
